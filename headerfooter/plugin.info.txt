@@ -1,0 +1,7 @@
+base   headerfooter
+author the-shoemaker
+email  contact@dan-space.ch
+date   2025-05-06
+name   HeaderFooter Plugin
+desc   A DokuWiki plugin to set global and namespace-specific (local) header/footer files. Use _header (local) and __header (global).
+url    https://github.com/the-shoemaker/dokuwiki-headerfooter
